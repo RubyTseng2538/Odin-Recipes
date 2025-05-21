@@ -1,0 +1,19 @@
+
+body {
+    background-color: #e7e6d0;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: #4CAF50;
+    text-align: center;
+}
+a {
+    color: #09380b;
+    text-decoration: none;
+}
+
+li {
+    color: #09380b;
+    font-size: 30px;
+    margin: 10px;
+}
